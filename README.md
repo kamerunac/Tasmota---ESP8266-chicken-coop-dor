@@ -5,3 +5,4 @@ You can go without buttons or temperature sensor and voltage/current sensor.
 In timers you can set time when open/close doors and switch on/off lights.
 Outputs relay 1 for open, relay 2 for close, relay 3 for light.
 Outputs are interlocked and timer set to 9 seconds to close/open door. You can change it in console.
+For door use linear motor with built in end switches.
